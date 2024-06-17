@@ -6,7 +6,7 @@ To set up the project locally, follow these steps:
 
 ```bash
 git clone https://github.com/vnevermore/coincash-wallet.git
-cd coincash-landing-page
+cd coincash-wallet
 ```
 
 #### Install dependencies
